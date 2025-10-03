@@ -27,4 +27,7 @@ Permite **cadastrar, listar, atualizar e deletar** usuários, armazenando **nome
 - ✅ **PUT /users/:id** → Atualiza os dados de um usuário existente 
   <br>
 - ✅ **DELETE /users/:id** → Remove um usuário do banco de dados <h2/>
+<br>
+<h1> 📸 Imagem do Banco de Dados com MongoDB:</h1>
+<img  src= "">
 
